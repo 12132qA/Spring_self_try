@@ -1,0 +1,8 @@
+
+1. 运行 data_db.sql 文件
+
+2. 修改 config包下的 Db_config 类 中的 Mysql 密码 改成自己的密码
+
+2. 修改 beanFactory包下的 BeanContainer类中initBeanContainer方法的 路径 为自己的 task1包的绝对变量
+
+3. 加入 band 包下的 ReadTitle类下的 路径改为自己的 title.txt 本地的绝对路径
